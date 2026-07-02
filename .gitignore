@@ -12,3 +12,5 @@ ds004496
 # Model Weights
 *.pt
 
+test_ignore.nc
+test_download.nc
