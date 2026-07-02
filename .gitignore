@@ -8,9 +8,10 @@ venv
 build
 .DS_Store
 .pytest_cache
-ds004496
+
 # Model Weights
 *.pt
 
 test_ignore.nc
 test_download.nc
+ds004496/
